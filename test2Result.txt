@@ -1,0 +1,9 @@
+Instruction?Illegal instruction, process has not been mapped into memory yet
+Instruction?Illegal instruction, process has not been mapped into memory yet
+Instruction?Mapped process 1 (virtual page 1) into physical frame 1
+Instruction?Mapped process 2 (virtual page 2) into physical frame 2
+Instruction?Mapped process 3 (virtual page 3) into physical frame 3
+Instruction?No pages are free.
+Mapped process 4 (virtual page 4) into physical frame 2
+Instruction?Stored value 13 at virtual address 13 (physical address 46)
+Instruction?Stored value 13 at virtual address 13 (physical address 46)
